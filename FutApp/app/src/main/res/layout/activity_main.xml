@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageViewFlag4"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="@+id/imageViewFlag3"
+        app:layout_constraintStart_toStartOf="@+id/imageViewFlag3"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewFlag3"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/imageViewFlag3"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="@+id/imageViewFlag2"
+        app:layout_constraintStart_toStartOf="@+id/imageViewFlag2"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewFlag2"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/imageViewFlag2"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="@+id/imageViewFlag1"
+        app:layout_constraintStart_toStartOf="@+id/imageViewFlag1"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewFlag1"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/imageViewFlag1"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="-32dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="@+id/textViewGroup"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/textViewGroup"
+        app:layout_constraintTop_toBottomOf="@+id/textViewGroup"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/textViewGroup"
+        android:layout_width="77dp"
+        android:layout_height="21dp"
+        android:layout_marginTop="24dp"
+        android:text="Groupo B"
+        android:textAlignment="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/Brasilbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:onClick="openTeamActivityBrazil"
+        android:text="Brasil"
+        app:layout_constraintBottom_toBottomOf="@+id/imageViewFlag1"
+        app:layout_constraintStart_toEndOf="@+id/imageViewFlag1"
+        app:layout_constraintTop_toTopOf="@+id/imageViewFlag1"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/Serviabutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="openTeamActivityBrazil"
+        android:text="Sérvia"
+        app:layout_constraintBottom_toBottomOf="@+id/imageViewFlag2"
+        app:layout_constraintStart_toStartOf="@+id/Brasilbutton"
+        app:layout_constraintTop_toTopOf="@+id/imageViewFlag2" />
+
+    <Button
+        android:id="@+id/Suicabutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="openTeamActivityBrazil"
+        android:text="Suíça"
+        app:layout_constraintBottom_toBottomOf="@+id/imageViewFlag3"
+        app:layout_constraintStart_toStartOf="@+id/Serviabutton"
+        app:layout_constraintTop_toTopOf="@+id/imageViewFlag3" />
+
+    <Button
+        android:id="@+id/Camaroesbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="openTeamActivityBrazil"
+        android:text="Camarões"
+        app:layout_constraintBottom_toBottomOf="@+id/imageViewFlag4"
+        app:layout_constraintStart_toStartOf="@+id/Suicabutton"
+        app:layout_constraintTop_toTopOf="@+id/imageViewFlag4"
+        app:layout_constraintVertical_bias="0.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

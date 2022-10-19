@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PlayerActivity">
+
+    <TextView
+        android:id="@+id/AgeView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="99 years old"
+        android:textAlignment="center"
+        android:textColor="#FFC107"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/AgeIdadeView"
+        app:layout_constraintStart_toStartOf="@+id/AgeIdadeView"
+        app:layout_constraintTop_toBottomOf="@+id/AgeIdadeView" />
+
+    <TextView
+        android:id="@+id/NameView"
+        android:layout_width="190dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="36dp"
+        android:text="Name Sample Here"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/RoleView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Role in Field"
+        android:textAlignment="center"
+        android:textColor="#FFC107"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/RolePosicaoView"
+        app:layout_constraintStart_toStartOf="@+id/RolePosicaoView"
+        app:layout_constraintTop_toBottomOf="@+id/RolePosicaoView" />
+
+    <TextView
+        android:id="@+id/BornFromView"
+        android:layout_width="128dp"
+        android:layout_height="43dp"
+        android:text="Location Sample Here"
+        android:textAlignment="center"
+        android:textColor="#FFC107"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/BornNaturalView"
+        app:layout_constraintStart_toStartOf="@+id/BornNaturalView"
+        app:layout_constraintTop_toBottomOf="@+id/BornNaturalView" />
+
+    <TextView
+        android:id="@+id/RolePosicaoView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="POSIÇÃO"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/AgeView"
+        app:layout_constraintEnd_toStartOf="@+id/AgeIdadeView"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/AgeIdadeView" />
+
+    <TextView
+        android:id="@+id/AgeIdadeView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="100dp"
+        android:text="IDADE"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/BornNaturalView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NATURAL"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/AgeView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.532"
+        app:layout_constraintStart_toEndOf="@+id/AgeIdadeView"
+        app:layout_constraintTop_toTopOf="@+id/AgeIdadeView" />
+
+    <TextView
+        android:id="@+id/TitlesView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Camp View\nCamp View\nCamp View\nCamp View\nExtended Camp View\nExtended Camp View"
+        app:layout_constraintEnd_toEndOf="@+id/TitlesTitulosView"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/TitlesTitulosView"
+        app:layout_constraintTop_toBottomOf="@+id/TitlesTitulosView" />
+
+    <TextView
+        android:id="@+id/TitlesTitulosView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:text="TÍTULOS"
+        android:textColor="#2196F3"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/NameView"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/ClubView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text="Camp View\nCamp View\nCamp View\nCamp View\nExtended Camp View\nExtended Camp View"
+        app:layout_constraintEnd_toEndOf="@+id/ClubClubesView"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/ClubClubesView"
+        app:layout_constraintTop_toBottomOf="@+id/ClubClubesView" />
+
+    <TextView
+        android:id="@+id/ClubClubesView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="CLUBES EM QUE ATUOU"
+        android:textColor="#2196F3"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/TitlesTitulosView"
+        app:layout_constraintTop_toBottomOf="@+id/TitlesView" />
+
+    <TextView
+        android:id="@+id/CuparticipacaoView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="PARTICIPAÇÕES EM COPAS"
+        android:textColor="#2196F3"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/AgeIdadeView"
+        app:layout_constraintStart_toStartOf="@+id/ClubClubesView"
+        app:layout_constraintTop_toBottomOf="@+id/ClubView"
+        app:layout_constraintVertical_bias="0.00999999" />
+
+    <TextView
+        android:id="@+id/CupView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Camp View\nCamp View\nCamp View\nCamp View\nExtended Camp View\nExtended Camp View"
+        app:layout_constraintEnd_toEndOf="@+id/CuparticipacaoView"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/CuparticipacaoView"
+        app:layout_constraintTop_toBottomOf="@+id/CuparticipacaoView" />
+
+    <TextView
+        android:id="@+id/ShirtCamisaView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:text="Camisa"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/RolePosicaoView"
+        app:layout_constraintStart_toStartOf="@+id/imageView"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        app:layout_constraintVertical_bias="0.227" />
+
+    <TextView
+        android:id="@+id/ShirtNumberView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="99"
+        android:textAlignment="center"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/ShirtCamisaView"
+        app:layout_constraintStart_toStartOf="@+id/ShirtCamisaView"
+        app:layout_constraintTop_toBottomOf="@+id/ShirtCamisaView" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="165dp"
+        android:layout_height="294dp"
+        app:layout_constraintBottom_toTopOf="@+id/RolePosicaoView"
+        app:layout_constraintEnd_toStartOf="@+id/ClubClubesView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <Button
+        android:id="@+id/Returnbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="openBackTeamActivity"
+        android:text="Voltar"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/imageView"
+        app:layout_constraintTop_toBottomOf="@+id/RoleView" />
+</androidx.constraintlayout.widget.ConstraintLayout>

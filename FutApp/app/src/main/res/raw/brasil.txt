@@ -1,0 +1,65 @@
+nome: Fred,
+T: Brasileirão 2010 e 2012, Copa do Brasil 2018 e Copa das Confederações 2013
+C: Cruzeiro, Fluminense, Atlético Mineiro, Lyon e Seleção Brasileira
+Copas: 2006 e 2014
+Idade: 39
+
+nome: Alisson
+T: Liga dos Campeões 2018 e 2019, Copa do Mundo de clubes da fifa 2019, Premier League 2019 e 2020
+C: Liverpool, Inter, Seleção brasileira 
+Copas: 2018
+Idade: 30
+
+nome: Casemiro
+T: Liga dos Campeões 2013, 14, 15, 16, 17, 18, 21 e 22, Copa do Mundo de Clubes da fifa 2016, 17 e 18, Copa américa 2019
+C: Real Madrid e São Paulo
+Copas: 2018 e 2022
+Idade: 30
+
+nome: Thiago Silva
+T:Liga dos Campeões 2020, Copa das Confederações 2013 e Supercopa da Itália 2011
+C:Milan, Fluminense, Paris Saint-Germain, Chelsea e Seleção Brasileira
+Copas: 2010, 2014, 2018 e 2022
+Idade: 38
+
+nome: Alex Telles
+T: Campeonato Português 2017 e 2019, Taça de Portugal 2019 e Copa FGF 2011 e 2012
+C: Juventude, Galatasaray, Seleção Brasileira e Porto
+Copas: 2022
+Idade: 29
+
+nome: Marquinhos
+T: Copa Libertadores 2012, Olimpíadas 2016 e Supercopa da França 2014-2020
+C: Paris Saint-Germain, Corinthians e Seleção Brasileira
+Copas: 2018 e 2022
+Idade: 28
+
+nome: Danilo
+T: Liga dos Campeões da UEFA 2015 e 2016, Campeonato Paulista 2011 e Copa Itália 2020
+C: América Mineiro, Santos, Porto, Real Madrid, Manchester City, Juventus e Seleção Brasileira
+Copas: 2018 e 2022
+Idade: 31
+
+nome: Lucas Paquetá
+T: Campeonato Carioca 2017, Copa América 2019 e Carioca Sub-20 2015
+C: Flamengo, Milan, Lyon e West Ham
+Copas: 2022
+Idade: 25
+
+nome: Raphinha 
+T: Taça da Liga 2018 e Taça de Portugal 2018
+C: Vitória Guimarães, Sporting, Rennes, Leeds United e Barcelona
+Copas: 2022
+Idade: 25
+
+nome: RIcharlison
+T: Copa América 2019, Olimpíadas 2020 e Taça Guanabara 2017
+C: América Mineiro, Fluminense, Watford, Everton e Tottenham
+Copas: 2018 e 2022
+Idade: 25
+
+nome: Neymar
+T: Olimpíadas 2016, Liga dos Campeões UEFA 2014 e COpa do Mundo de clubes da fifa 2015
+C: Santos, Barcelona e Paris Saint-Germain
+Copas: 2014, 2018 e 2022
+Idade: 30

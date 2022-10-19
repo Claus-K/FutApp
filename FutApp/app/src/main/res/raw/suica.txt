@@ -1,0 +1,64 @@
+nome: Sommer
+T:  Challenge League da Suíça 2007, Liga dos Campeões Sub-21 2011 e Copa da Suíça 2011
+C: Basel U21, Vaduz, Basel, Grasshoppers e Borussia Mönchengladbach
+Copas: 2014, 2018 e 2022
+Idade: 33
+
+nome: Silvan Widmer
+T: nenhum
+C: Aarau II, Aarau, Udinense, Basel e Mainz 05
+Copas: 2022
+Idade: 29
+
+nome: Fabian Schär
+T: Uhren Cup 2013 e Superliga da Suíça 2012, 2013 e 2014
+C: FC Wil, Basel, 1899 Hoffenheim, Deportivo La Coruña e Newcastle United
+Copas: 2018 e 2022
+Idade: 30
+
+nome: Manuel Akanji
+T: Copa da Suíça 2015 e 2016 e Superliga da Suíça 2016
+C: Winterthur. Basel, Borussia Dortmund e Manchester City
+Copas: 2018 e 2022
+Idade: 27
+
+nome: Ricardo Rodriguez
+T: DFB-Pokal 2018, Copa Sub-17 2009 e DFL-Supercup 2015
+C: Zürich, VfL Wolfsburg, AC Milan, PSV Eindhoven e Torino
+Copas: 2018 e 2022
+Idade: 30
+
+nome: Remo Freuler
+T: nenhum
+C: Winterthur U21, Winterthur, Grasshoppers U21, Grasshoppers, Luzern, Atalanta e Nottingham Forest
+Copas: 2018 e 2022
+Idade: 30
+
+nome: Denis Zakaria
+T: nenhum
+C: Servette, Young Boys, Borussia Mönchengladbach e Juventus
+Copas: 2018 e 2022
+Idade: 25
+
+nome: Renato Steffen
+T:  Copa da Suíça 2015 e 2016 e Superliga da Suíça 2016
+C: Thu, Young Boys, Basel e VfL Wolfsburg
+Copas: 2022
+
+nome: Ruben Vargas
+T: nenhum
+C: Luzern e FC Augsburg
+Copas: 2022
+Idade: 24
+
+nome: Xherdan Shaqiri
+T: Copa da Suíça 2009 e 2011, Superliga da Suíça 2009, 2010 e 2011 e Liga dos Campeões UEFA 2012
+C: Basel II, Basel, Bayern Munich, Inter Milan, Stoke City, Liverpool, Lyon e Chicago Fire
+Copas: 2010, 2014, 2018 e 2022
+Idade: 30
+
+nome: Breel Embolo
+T: U16 Swiss Champion 2011 e 2012 e Superliga da Suíça 2013, 2014 e 2015
+C: Basel, Schalke 04, Borussia Mönchengladbach e Monaco
+Copas: 2018 e 2022
+Idade: 25

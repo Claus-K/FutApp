@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TeamActivity">
+
+
+    <Button
+        android:id="@+id/middlePlayer2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="openPlayerActivity"
+        android:text="Button"
+        app:layout_constraintBottom_toTopOf="@+id/defPlayer2"
+        app:layout_constraintStart_toEndOf="@+id/defPlayer2"
+        app:layout_constraintTop_toBottomOf="@+id/edgerPlayer4" />
+
+    <Button
+        android:id="@+id/edgerPlayer3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="-16dp"
+        android:layout_marginTop="48dp"
+        android:onClick="openPlayerActivity"
+        android:text="Button"
+        app:layout_constraintEnd_toStartOf="@+id/BackgroundCampView"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/centerPlayer1"
+        app:layout_constraintTop_toBottomOf="@+id/BackgroundCampView" />
+
+    <Button
+        android:id="@+id/middlePlayer3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="openPlayerActivity"
+        android:text="Button"
+        app:layout_constraintBottom_toTopOf="@+id/defPlayer2"
+        app:layout_constraintEnd_toStartOf="@+id/defPlayer2"
+        app:layout_constraintTop_toBottomOf="@+id/edgerPlayer3" />
+
+    <Button
+        android:id="@+id/defPlayer2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="64dp"
+        android:onClick="openPlayerActivity"
+        android:text="Button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/edgerPlayer2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="openPlayerActivity"
+        android:text="Button"
+        app:layout_constraintBottom_toTopOf="@+id/middlePlayer1"
+        app:layout_constraintEnd_toStartOf="@+id/defPlayer1"
+        app:layout_constraintTop_toBottomOf="@+id/defPlayer1" />
+
+    <Button
+        android:id="@+id/edgerPlayer1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="openPlayerActivity"
+        android:text="Button"
+        app:layout_constraintBottom_toTopOf="@+id/middlePlayer1"
+        app:layout_constraintStart_toEndOf="@+id/defPlayer1"
+        app:layout_constraintTop_toBottomOf="@+id/defPlayer1" />
+
+    <Button
+        android:id="@+id/edgerPlayer4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="-16dp"
+        android:onClick="openPlayerActivity"
+        android:text="Button"
+        app:layout_constraintEnd_toEndOf="@+id/centerPlayer2"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/BackgroundCampView"
+        app:layout_constraintTop_toBottomOf="@+id/BackgroundCampView" />
+
+    <Button
+        android:id="@+id/defPlayer1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:onClick="openPlayerActivity"
+        android:text="Button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/centerPlayer2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="openPlayerActivity"
+        android:text="Button"
+        app:layout_constraintBottom_toBottomOf="@+id/BackgroundCampView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/BackgroundCampView"
+        app:layout_constraintTop_toTopOf="@+id/BackgroundCampView" />
+
+    <ImageView
+        android:id="@+id/BackgroundCampView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/centerPlayer2"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/centerPlayer1"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <Button
+        android:id="@+id/centerPlayer1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="openPlayerActivity"
+        android:text="Button"
+        app:layout_constraintBottom_toBottomOf="@+id/BackgroundCampView"
+        app:layout_constraintEnd_toStartOf="@+id/BackgroundCampView"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/BackgroundCampView" />
+
+    <Button
+        android:id="@+id/middlePlayer1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="128dp"
+        android:onClick="openPlayerActivity"
+        android:text="Button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/defPlayer1" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

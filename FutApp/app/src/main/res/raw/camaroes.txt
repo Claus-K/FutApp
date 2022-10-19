@@ -1,0 +1,67 @@
+Camarões
+
+nome: André Onana
+T: Eredivisie 2018, 2020 e 2021, KNVB 2018 e 2020 e Johan Cruyff Shield 2019
+C: Jong Ajax, Ajax e Inter Milan
+Copas: 2022
+Idade: 26
+
+nome: Michael Ngadeu-Ngadjui
+T: Copa da Bélgica 2017 e 2018, Campeonato Checo de Futebol 2016 e 2018 e Copa da Chéquia 2017 e 2018
+C: Botoșani, Slavia Prague e Gent
+Copas: 2022
+Idade:31
+
+nome: Ambroise Oyongo
+T: Copa de Camarões de Futebol 2011, Elite One 2010, 2011 e 2013 e Campeonato Africano das Nações 2017
+C: Coton Sport, New York Red Bulls, New York Red Bulls II, Montreal Impact, Montpellier, Montpellier B e Krasnodar
+Copas: 2022
+Idade: 31
+
+nome: Collins Fai
+T: Campeonato Camaronês de Futebol 2011, Copa da Bélgica 2015 e 2017 e Campeonato Africano das Nações 2017
+C: Dinamo București e Standard Liège
+Copas: 2022
+Idade: 30
+
+nome: Jean-Charles Castelletto
+T: Copa da França 2021
+C: Auxerre, Club Brugge, Mouscron, Red Star, Brest e Nantes
+Copas: 2018 e 2022
+Idade: 27
+
+nome: Gaël Ondoua
+T: nenhum
+C: CSKA Moscow, Vejle BK, Zorya Luhansk, Anzhi Makhachkala, Servette e Hannover 96
+Copas: 2022
+Idade: 26
+
+nome: Karl Toko Ekambi
+T: Campeonato Africano das Nações 2017, Copa da Liga Francesa 2019
+C: Paris FC, Sochaux, Angers, Villarreal e Lyon
+Copas: 2022
+Idade: 30
+
+nome: Samuel Gouet
+T: nenhum
+C: APEJES Academy, Rheindorf Altach e Mechelen
+Copas: 2022
+Idade: 24
+
+nome: Martin Hongla
+T: Copa da Bélgica 2019
+C: Granada B, Granada, Barcelona B, Karpaty Lviv, Royal Antwerp e Hellas Verona
+Copas: 2022
+Idade: 24
+
+nome: Léandre Tawamba
+T: Copa da Sérvia 2016 e 2017 e Superliga da Sérvia 2016
+C: FC Cape Town, Mpumalanga Black Aces, Nitra, Ružomberok, Al-Ahly Benghazi, Zlaté Moravce, Kairat, Partizan e Al-Taawoun
+Copas: 2022
+Idade: 32
+
+nome: Eric Maxim Choupo-Moting
+T: Copa da França 2019, Ligue 1 2018 e 2019 e Liga dos Campeões UEFA 2019
+C: Hamburger SV II, Hamburger SV, 1. FC Nürnberg, Mainz 05, 1. FSV Mainz 05 II, Schalke 04, Stoke City, Paris Saint-Germain e Bayern Munich
+Copas: 2022
+Idade: 33

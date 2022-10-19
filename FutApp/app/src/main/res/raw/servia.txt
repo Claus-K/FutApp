@@ -1,0 +1,65 @@
+nome: Rajkovic
+T: Copa do Mundo Sub-20 2015 e Campeonato Europeu Sub-19 2013
+C: Jagodina, Estrela Vermelha, Maccabi Tel Aviv, Reims e Mallorca
+Copas: 2018 e 2022
+Idade: 26
+
+nome: Milenković
+T: Superliga Sérvia 2016 e Copa Sérvia 2015 e 2016
+C: Teleoptik, Partizan e Florentina
+Copas: 2018 e 2022
+Idade: 24
+
+nome: Veljković
+T: COpa do Mundo Sub-20 2015 e UEFA Sub-19 2013
+C: Tottenham, Middlesbrough, Charlton Athletic, Werder Bremen I e II 
+Copas: 2018 e 2022
+Idade: 27
+
+nome: Pavlović
+T: Copa Sérvia 2018
+C: Partizan, Monaco, Cercle Brugge, Basel e Red Bull Salzburg
+Copas: 2022
+Idade: 21
+
+nome: Živković
+T: Superliga Sérvia 2012 e 2014, Copa Sérvia 2015 e Copa do Mundo Sub-20 2015
+C: Partizan, Benfica e Paok
+Copas: 2018 e 2022
+Idade: 26
+
+nome: Radonjić
+T: Superliga Sérvia 2017
+C: Čukarički, Red Star Belgrade, Marselle, Hertlha BSC, Benfica e Torino
+Copas: 2018 e 2022
+Idade: 26
+
+nome: Lukić
+T: Superliga Sérvia 2014 e Copa Sérvia 2015
+C: Teleoptik, Partizan, Torino e Levante
+Copas: 2022
+Idade: 26
+
+nome: Savić
+T: Copa do Mundo Sub-20 2015
+C: Vojvodina, Lechia Gdańsk, Torino, SPAL, Ascolin e Standard Liège
+Copas: 2022
+Idade: 25
+
+nome: Kostić
+T: Liga dos Campeões UEFA 2021
+C: Radnički Kragujevac, Groningen, VfB Stuttgart, Hamburger SV, Eintracht Frankfurt e Juventus
+Copas: 2018 e 2022
+Idade: 29
+
+nome: Tadić
+T: Copa dos Países Baixos 2018 e 2020, Eredivisie 2018 e 2020 e SUpercopa dos Países Baixos 2019
+C: Vojvodina, Groningen, Twente, Southampton e Ajax
+Copas: 2018 e 2022
+Idade: 33
+
+nome: Mitrović
+T: nenhum
+C: Radnički Niš e Red Star
+Copas: 2022
+Idade: 20
